@@ -21,3 +21,7 @@ Pour l'écran de zoning nous nous sommes réunis afin de trouver la meilleur com
 ![écran prototype](doc/ecran_prototype.png)
 
 Afin de produire l'écran prototype, nous nous sommes inspirée de certains sites moderne et épurée. Nous trouvons que l'image qui disparaît petit à petit lorsqu'on descend dans la page ammène un coté moderne et un aspect plus attrayant.
+
+
+# Livrable parties Économie et Documents numérique
+[écran prototype](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
