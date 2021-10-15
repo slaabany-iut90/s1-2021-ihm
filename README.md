@@ -24,4 +24,4 @@ Afin de produire l'écran prototype, nous nous sommes inspirée de certains site
 
 
 # Livrable parties Économie et Documents numérique
-[écran prototype](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
+[Livrable économie](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
