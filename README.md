@@ -34,6 +34,18 @@ Notre site web comporte 5 pages et présente l'entreprise Webedia. Le menu de la
 
 ![Validateur](doc/validateur.png)
 
+**Auteurs**
+
+Pour notre site web, la page d'accueil et le style css ont été codées par Zinedine OUDINI, Shakir LAABANY et Bilel BOUHEDDA.
+
+Ensuite, Shakir LAABANY à fait les pages de Présentation.
+         La page d'Economie a été codée par Shakir LAABANY et Bilel BOUHEDDA.
+         Zinedine OUDINI à effectué la page de Stratégie et à chercher des différentes illustrations et à peaufiné le site.
+         Bilel BOUHEDDA à fait la page d'Histoire et à également amélioré le style css en ajoutant le framework Bootstrap.
+         Le design du site à été réfléchis à 3: Zinedine OUDINI, Shakir LAABANY, Bilel BOUHEDDA
+         L'écran de zoning a été réfléchis à 3 également et a été synthétisé par Bilel BOUHEDDA
+         
+
 
 # Livrable parties Économie et Documents numérique
 [Livrable économie](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
