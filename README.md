@@ -46,6 +46,5 @@ Ensuite, Shakir LAABANY à fait les pages de Présentation.
          L'écran de zoning a été réfléchis à 3 également et a été synthétisé par Bilel BOUHEDDA
          
 
-
 # Livrable parties Économie et Documents numérique
 [Livrable économie](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
