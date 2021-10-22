@@ -32,3 +32,4 @@ Notre site web comporte 5 pages et présente l'entreprise Webedia. Le menu de la
 
 **Attestation validation W3C
 
+[Validateur](doc/validateur.png)
