@@ -1,6 +1,6 @@
 **Voici notre groupe:**
 
-[LAABANY Shakir]mailto:shakir.laabany@edu.univ-fcomte.fr?subject=SAE_1_06
+[LAABANY Shakir](mailto:shakir.laabany@edu.univ-fcomte.fr?subject=SAE_1_06)
 
 Bilel BOUHEDDA
 
