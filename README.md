@@ -25,3 +25,10 @@ Afin de produire l'écran prototype, nous nous sommes inspirée de certains site
 
 # Livrable parties Économie et Documents numérique
 [Livrable économie](doc/LAABANY_OUDINI_BOUHEDDA_DESGRONTE.pdf)
+
+**Informations sur le site**
+
+Notre site web comporte 5 pages et présente l'entreprise Webedia. Le menu de la page d'accueil ramène aux résumés de chaques page. Pour acceder à ces pages, il suffit de cliquer sur le bouton **En savoir plus**. Le rapport est disponible en téléchargement à la fin de la page d'accueil. Nous avons choisis ces couleurs pourle site car nous trouvions qu'elles apportaient un aspect épuré.
+
+**Attestation validation W3C
+
