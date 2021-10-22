@@ -1,91 +1,133 @@
 
 html {
-  scroll-behavior: smooth;
-}
-
+  scroll-behavior: smooth;}
 body {
   font-family: 'Advent Pro', sans-serif;
   padding: 0;
   margin: 0;
-  background-color: lightgrey;
-}
+  background-color: lightgrey;}
 ul {
   margin: 0;
-  padding: 0;
-}
+  padding: 0;}
 li {
 
-  list-style-type: none;
-}
+  list-style-type: none;}
 h2 {
   text-transform: uppercase;
   text-align: center;
   padding-top: 30px;
-  font-size: 2em;
-}
+  font-size: 2em;}
 a {
   text-decoration: none;
-  color: black;
-}
-nav {
-  overflow: hidden;
-  background-color: #8e8a8a  ;
-  position: fixed;
-  width: 100%;
-  
-}
+  color: black;}
 header li {
   float: left;
-  font-size: 1.2em;
-}
+  font-size: 1.2em;}
 header li a {
   text-decoration: none;
   display: block;
   text-align: center;
-  padding: 18px 16px;
-}
-#logo {
-  font-weight: bold;
-  float: left;
-}
-
-#imagePrincipale {
-  padding-top: 60px;
-  background: url(media/image_webedia.jpg) no-repeat fixed 50% 50%;
-  background-size: cover;
-  height: 799px;
-}
+  padding: 18px 16px;}
+a {color: whitesmoke;}
+a:hover{color: darkgray;}
 h1 {
   font-family: 'Nunito';
   text-align: center;
   color: whitesmoke;
   font-size: 6em;
   margin-top: 100px;
-  text-shadow: 0px 0px 10px black;
-}
-
+  text-shadow: 0px 0px 10px black;}
 h3 {
   font-family: 'Nunito';
   text-align: center;
   color:whitesmoke;
   font-size: 3em;
-  text-shadow: 1px 0px 10px black;
+  text-shadow: 1px 0px 10px black;}
+
+#imagePrincipale {
+  padding-top: 60px;
+  background: url(images/webedia.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 799px;}
+
+#texteIntro {
+  margin: 0px 250px 0px 250px;
+  text-align: center;
 }
 
-a {
-color: whitesmoke;
 
-}
-a:hover{
-  color: darkgray;
+#ParaLeft1 {
+  padding: 50px 100px 50px 100px;
 }
 
-#creator {
-  padding-left: 550px;
+.ParaLeft1 {
+
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+#ParaRight1 {
+  padding: 50px 100px 50px 50px;
+}
+
+.ParaRight1 {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+#ParaLeft2 {
+  padding: 50px 100px 50px 100px;
+}
+
+#ParaRight2 {
+  padding: 50px 100px 50px 50px;
+}
+
+#ParaRight3 {
+  padding: 50px 100px 50px 50px;
+}
+
+#ParaRight4 {
+  padding: 50px 100px 50px 50px;
+}
+
+
+
+#image1 {
+  background: url(images/image1.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+#image2 {
+  background: url(images/image2.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+#image3 {
+  background: url(images/image3.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+#imagePrincipale2 {
+  background: url(images/carte.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+#imagePrincipale3 {
+  background: url(images/webediamarques.png) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+#imagelfl {
+  background: url(images/cover.png) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 200px;}
+
+.rapport {
+  text-align: center;
+}
+.creator {
   text-align: center;
   font-family: 'Nunito';
 }
-p {
-  text-align: center;
-  padding: 30px;
-}
+
